@@ -23,5 +23,6 @@ hs_err_pid*
 *.lol
 *.lot
 *.mp4
+*.pdf
 
 .idea
